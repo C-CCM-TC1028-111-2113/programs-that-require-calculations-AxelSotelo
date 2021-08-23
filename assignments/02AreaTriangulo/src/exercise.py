@@ -3,7 +3,7 @@ def main():
     b=float(input("Dame la base: "))
     h=float(input("Dame la altura: "))
     
-    a=(b*h)/2
+    a=b*h/2
     
     print("El área es:", a)
 
